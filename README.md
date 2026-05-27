@@ -84,14 +84,7 @@ if __name__ == "__main__":
 - Actionable Insights: The comparison highlights differences and overlaps, helping decide which tool provides more relevant or richer information.
 
 * Result :
-When executed, the program will:
-- Generate responses from multiple AI tools.
-- Display outputs side by side.
-- Provide comparative insights (e.g., which tool is more detailed, unique perspectives).
-This approach can be extended to:
-- Sentiment analysis of outputs
--  Ranking tools based on accuracy or relevance
-- Automating decision-making pipelines
+The Python program was successfully developed and executed. The generated AI text was analyzed using sentiment analysis, and the program correctly identified whether the text was positive, negative, or neutral based on the compound sentiment score. The code demonstrated compatibility with multiple AI-generated text outputs.
 
 
 
